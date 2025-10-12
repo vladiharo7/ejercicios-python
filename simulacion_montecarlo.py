@@ -1,3 +1,7 @@
+'''
+Simulación de Monte Carlo para estimar el valor de π
+'''
+
 import random
 import matplotlib.pyplot as plt
 
